@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ilyadorosh
+- 👀 I’m interested in AI, biotech, markets.
+- 💞️ I’m looking for a job
+- 📫 You can find me on LinkedIn
