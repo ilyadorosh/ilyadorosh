@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ilyadorosh
-- 👀 I’m a human benchmark for Art recognition
-- coevolving with AI, biotech, markets.
-- 💞️ I’m looking for a job
-- 📫 You can find me on LinkedIn
+- 👀 I’m an ML engineer. 
+- Python, PyTorch, GLSL, Linux
+- like Andrej Karpathy, I'd like to be a human benchmark for Art recognition
+- 
+- coevolving with AI, biotech, stock market.
+- 💞️ I’m looking for a job 
+- 📫 You can find me on LinkedIn, Twitter
